@@ -14,7 +14,7 @@ public class BreadthFirstSearch {
 	}
 
 
-	private void search() {
+	public void search() {
 		
 		
 	}
